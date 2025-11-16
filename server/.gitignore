@@ -1,2 +1,5 @@
+# DB 접속 정보 보호
 server/dbConnect.php
+server/.env
+server/game_debug.logserver/dbConnect.php
 server/.env
