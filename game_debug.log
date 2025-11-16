@@ -1,0 +1,89 @@
+
+--- [DEBUG START: 2025-11-10 17:32:52] ---
+User: 이경윤
+Problem: 한국의 수도는 ___이다
+POST Answer: [서울]
+Normalized User Answer: [서울]
+Normalized Correct Answer: [서울] (MATCH! 🎉)
+--- [DEBUG END] ---
+
+--- [DEBUG START: 2025-11-10 17:34:10] ---
+User: 이경윤
+Problem: 한국의 수도는 ___이다
+POST Answer: []
+Normalized User Answer: []
+Normalized Correct Answer: [서울] (FAIL ❌ - Lengths: User=0, Correct=6)
+--- [DEBUG END] ---
+
+--- [DEBUG START: 2025-11-10 17:34:21] ---
+User: 이경윤
+Problem: 한국의 수도는 ___이다
+POST Answer: [서울]
+Normalized User Answer: [서울]
+Normalized Correct Answer: [서울] (MATCH! 🎉)
+--- [DEBUG END] ---
+
+--- [DEBUG START: 2025-11-10 17:34:26] ---
+User: 이경윤
+Problem: 한국의 수도는 ___이다
+POST Answer: [서울]
+Normalized User Answer: [서울]
+Normalized Correct Answer: [서울] (MATCH! 🎉)
+--- [DEBUG END] ---
+
+--- [DEBUG START: 2025-11-10 17:35:16] ---
+User: 이경윤
+Problem: 한국의 수도는 ___이다
+POST Answer: [서울]
+Normalized User Answer: [서울]
+Normalized Correct Answer: [서울] (MATCH! 🎉)
+--- [DEBUG END] ---
+
+--- [DEBUG START: 2025-11-10 17:38:55] ---
+User: 이경윤
+Problem: 한국의 수도는 ___이다
+POST Answer: [서울]
+Normalized User Answer: [서울]
+Normalized Correct Answer: [서울] (MATCH! 🎉)
+--- [DEBUG END] ---
+
+--- [DEBUG START: 2025-11-10 17:40:02] ---
+User: 이경윤
+Problem: 한국의 수도는 ___이다
+POST Answer: [서울]
+Normalized User Answer: [서울]
+Normalized Correct Answer: [서울] (MATCH! 🎉)
+--- [DEBUG END] ---
+
+--- [DEBUG START: 2025-11-10 17:40:50] ---
+User: 이경윤
+Problem: 한국의 수도는 ___이다
+POST Answer: [서울]
+Normalized User Answer: [서울]
+Normalized Correct Answer: [서울] (MATCH! 🎉)
+--- [DEBUG END] ---
+
+--- [DEBUG START: 2025-11-10 17:53:55] ---
+User: 이경윤
+Problem: 독도는 ___ 땅이다
+POST Answer: [한국]
+Normalized User Answer: [한국]
+Normalized Correct Answer: [대한민국] (FAIL ❌ - Lengths: User=6, Correct=12)
+Normalized Correct Answer: [한국] (MATCH! 🎉)
+--- [DEBUG END] ---
+
+--- [DEBUG START: 2025-11-10 17:54:11] ---
+User: 이경윤
+Problem: 프랑스의 수도는 ___이다
+POST Answer: [파리]
+Normalized User Answer: [파리]
+Normalized Correct Answer: [파리] (MATCH! 🎉)
+--- [DEBUG END] ---
+
+--- [DEBUG START: 2025-11-10 17:56:08] ---
+User: 이경윤
+Problem: 한글은 ___이 만들었다
+POST Answer: [세종대왕]
+Normalized User Answer: [세종대왕]
+Normalized Correct Answer: [세종대왕] (MATCH! 🎉)
+--- [DEBUG END] ---
